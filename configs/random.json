@@ -1,0 +1,6 @@
+{
+	"cls" : "RandomModel",
+	"args" : {
+		"num_classes" : 9
+	}
+}

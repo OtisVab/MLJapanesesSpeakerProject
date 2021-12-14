@@ -1,0 +1,9 @@
+{
+	"cls" : "LSTMModel",
+	"args" : {
+		"num_classes" : 9,
+		"lstm_dim" : 100,
+		"n_layers" : 1,
+		"hidden_dim" : 128
+	}
+}
